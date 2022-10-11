@@ -1,4 +1,3 @@
-# cychrome
 # 该浏览器是对Chromium源码进行修改，达到可以更加方便的让我们对js源码进行分析
 
 ## 下载连接
@@ -60,6 +59,7 @@ window.cbbhookCanvas()
 window.cbbhookwebgl()
 ```
 
+### 欢迎加入星球哦，现在星球刚刚开始价格便宜的很，花50就可以拥有2个憨憨给你去魔改浏览器很划算的呢
+星球连接`https://t.zsxq.com/06bIUvBEM`
 
-
-
+卷起来！！
