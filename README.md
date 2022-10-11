@@ -2,8 +2,8 @@
 
 ## 下载连接
 ````
-https://wwd.lanzoum.com/iZ8wd0dm5m7a
-密码:i4tn
+https://wwd.lanzoum.com/i9moa0doa88j
+密码:7yxb
 ````
 ### 1.代理`localStorage`和`sessionStorage`实现对本地数据库的监控
 ### 之后将会更新代理document，window，location等属性，实现浏览器的监控
