@@ -4,6 +4,7 @@
 ````
 https://wwd.lanzoum.com/i9moa0doa88j
 密码:7yxb
+视频使用教程：https://www.bilibili.com/video/BV1eV4y1L7dn/?vd_source=93dc7417d09246b7259569c65e2eb085
 ````
 ### 1.代理`localStorage`和`sessionStorage`实现对本地数据库的监控
 ### 之后将会更新代理document，window，location等属性，实现浏览器的监控
