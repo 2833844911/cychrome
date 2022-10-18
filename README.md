@@ -60,7 +60,6 @@ window.cbbhookCanvas()
 window.cbbhookwebgl()
 ```
 
-### 欢迎加入星球哦，现在星球刚刚开始价格便宜的很，花50就可以拥有2个憨憨给你去魔改浏览器很划算的呢
+### 欢迎加入星球哦
 星球连接`https://t.zsxq.com/06bIUvBEM`
 
-卷起来！！
