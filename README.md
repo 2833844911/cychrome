@@ -60,6 +60,19 @@ window.cbbhookCanvas()
 window.cbbhookwebgl()
 ```
 
+# 无感浏览器底层插桩打印调用的浏览器函数 不会被检测
+```
+下载链接：
+https://wwd.lanzoum.com/imMmZ0e9gc9g
+密码:5x3i
+```
+###使用 （教程b站有哦）
+```javascript
+//开启打印
+window.cbbopen()
+```
+
 ### 欢迎加入星球哦
 星球连接`https://t.zsxq.com/06bIUvBEM`
+
 
